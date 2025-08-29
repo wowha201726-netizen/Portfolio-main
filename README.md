@@ -17,7 +17,7 @@
 </p>
 <p align="center"> 
     <a href="https://github.com/wowha201726-netizen/Portfolio-main" target="_blank">
-    <img src=""></img><!--main pageimg -->`
+    <img src="./images/masterPortfolioThemes.png"></img><!--main pageimg -->`
   </a>
 </p>
 
