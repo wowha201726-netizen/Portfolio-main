@@ -46,9 +46,9 @@ export default function Greeting(props) {
           </div>
           <div className="greeting-image-div">
             <img
-							alt="saad sitting on table"
-							src={require("../../assets/images/greeting.png")}
-						></img>
+              alt="saad sitting on table"
+              src={require("../../assets/images/laravel-and-vue_fios.svg")}
+            ></img>
             {/*<FeelingProud theme={theme} />*/}
           </div>
         </div>
