@@ -18,7 +18,7 @@ class Header extends Component {
             <label className="menu-icon" htmlFor="menu-btn">
               <span className="navicon"></span>
             </label>
-            <ul className="menu" style={{ backgroundColor: theme.body}}>
+            <ul className="menu" style={{ backgroundColor: theme.body }}>
               <li>
                 <NavLink
                   to="/home"
@@ -29,7 +29,7 @@ class Header extends Component {
                   Home
                 </NavLink>
               </li>
-              <li>
+              {/*               <li>
                 <NavLink
                   to="/education"
                   tag={Link}
@@ -39,6 +39,7 @@ class Header extends Component {
                   Education
                 </NavLink>
               </li>
+ */}
               <li>
                 <NavLink
                   to="/experience"
