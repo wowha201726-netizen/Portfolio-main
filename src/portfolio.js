@@ -86,7 +86,7 @@ const socialMediaLinks = [
 
 const skills = {
   data: [
-    {
+    /*     {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
@@ -131,13 +131,13 @@ const skills = {
         },
       ],
     },
-    {
+ */ {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building multifunctioned website back end using Script(ReactJS, JavaScript, TypeScript, and NextJs etc.) and DB(MySQL, PostgreSQL, and MongoDB etc.)",
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
+        "⚡ Building multifunctioned website backend using Script(ReactJS, JavaScript, TypeScript, and NextJs etc.) and DB(MySQL, PostgreSQL, and MongoDB etc.)",
+        "⚡ Building responsive website frontend using React-Redux, NextJs, and JavaScript etc.",
+        "⚡ Developing mobile applications using React Native and solo android apps using Kotlin",
         "⚡ Creating application backend in Node, Express & Flask",
       ],
       softwareSkills: [
@@ -205,13 +205,6 @@ const skills = {
             color: "#663399",
           },
         },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
       ],
     },
     {
@@ -220,7 +213,6 @@ const skills = {
       skills: [
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
         "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
@@ -286,9 +278,9 @@ const skills = {
       title: "UI/UX Design",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Highly Engaging User Interface Design for Mobile and Web Applications",
+        "⚡ Custom Logo Design and Logo Creation",
+        "⚡ Building Application Functional Flows to Optimize User Experience",
       ],
       softwareSkills: [
         {
